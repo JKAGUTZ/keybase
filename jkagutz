@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am jkagutz on github.
+  * I am jkagutz (https://keybase.io/jkagutz) on keybase.
+  * I have a public key ASDiMRGBWaZ_XN8ikERD28PAQ2OG_Ivw9gSuLtvoQh-jPgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e231118159a67f5cdf22904443dbc3c0436386fc8bf0f604ae2edbe8421fa33e0a",
+      "host": "keybase.io",
+      "kid": "0120e231118159a67f5cdf22904443dbc3c0436386fc8bf0f604ae2edbe8421fa33e0a",
+      "uid": "a3dae6a10736c5681f381132cbb80819",
+      "username": "jkagutz"
+    },
+    "merkle_root": {
+      "ctime": 1568600270,
+      "hash": "937392bc8235a4072b36ddb1d5a711a3728f873ddf051adb120197e8b8fbb70a2520f9fbfce683cc8c485a72ccfd681a06f303e8d065fc8ae151b81858a5f808",
+      "hash_meta": "339f7cd8d6cbbcd05e5702899a1f8a8b1a212523928144453c95d29d13aa3b8c",
+      "seqno": 7429619
+    },
+    "service": {
+      "entropy": "nAMlbFBjMPT2OUo9D28+6CvQ",
+      "name": "github",
+      "username": "jkagutz"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568600275,
+  "expire_in": 504576000,
+  "prev": "ca7ca7f7a680504bed0633c0244c26902006c379527f45d2eef518e6fe50f470",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASDiMRGBWaZ_XN8ikERD28PAQ2OG_Ivw9gSuLtvoQh-jPgo](https://keybase.io/jkagutz), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4jERgVmmf1zfIpBEQ9vDwENjhvyL8PYEri7b6EIfoz4Kp3BheWxvYWTESpcCBcQgynyn96aAUEvtBjPAJEwmkCAGw3lSf0XS7vUY5v5Q9HDEIMyWbmeusOLe+AyNvqyJYdtFE9Dpqz4wFfGvnN+7x93gAgHCo3NpZ8RA6XpdBroIp7f/z6G+BO69k3cyN41y9C9Q3YUfsX8+vbnJZdchJFKnJB71boeszeZ0ipniTIqCnKchdEY2gySIC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOJTbg1RUIL/bVd/5ms9trmByUEpDgLUQH80tMX8lpBqo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/jkagutz
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id jkagutz
+```
